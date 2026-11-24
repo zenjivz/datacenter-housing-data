@@ -1,6 +1,6 @@
 # Data Centers and Housing in Virginia
 
-I put these datasets together to look at how home values and rents changed in parts of Virginia with a lot of data center development. This repo has the data, not the analysis.
+I put these datasets together to look at how home values and rents changed in parts of Virginia with a lot of data center development. I pulled the data center locations from the interactive map in a Business Insider article. This repo has the data, not the analysis.
 
 ## What’s in here
 
